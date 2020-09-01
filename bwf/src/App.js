@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Taskbar />
-     Hog Nuts
+     TEST
     </div>
   );
 }
