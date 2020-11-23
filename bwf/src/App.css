@@ -1,6 +1,19 @@
+.Navbar-text {
+  color: white;
+}
+
 .App {
   text-align: center;
+  color: white;
+  background-color: #36393a;
+  background-size: cover;
 }
+
+
+
+
+/* built in classes */
+
 
 .App-logo {
   height: 40vmin;
