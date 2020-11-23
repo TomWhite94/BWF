@@ -7,6 +7,7 @@ import Nav from 'react-bootstrap/Nav'
 function App() {
   return (
     <div className="App imgbox">
+      {/* Navbar with bwf logo */}
        <Navbar className="navbar sticky-top App" expand="lg">
                 <Navbar.Brand href="#home"> 
                     <img
@@ -24,6 +25,7 @@ function App() {
                     </Nav>
                 </Navbar.Collapse>
           </Navbar>
+          {/* BWF blog post with band header */}
         <img 
             alt=""
             src={require("./assets/bwf-blog.png")}
