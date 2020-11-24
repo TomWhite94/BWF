@@ -11,16 +11,9 @@
   margin-right: auto;
 }
 
-.fixed-nav-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 9999;
-}
-
-
 .Navbar-text {
   color: white;
+  font-size: x-large;
 }
 
 .float {
